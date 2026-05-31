@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvalculate",
+        "uuid": 11508324,
+        "checksum": "r5qhml"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
